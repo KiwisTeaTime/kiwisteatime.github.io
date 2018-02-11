@@ -1,5 +1,9 @@
 h1 {
   font-size: 2em;
   font-weight: normal;
-    font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive;
+  color:white;
+	text-shadow: black 2px 2px 7px;
+  text-align: center;
+  text-transform: uppercase;
 }
